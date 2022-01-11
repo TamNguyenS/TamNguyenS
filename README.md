@@ -1,3 +1,4 @@
+<h1 align="center">(ง •_•)ง</h1>
 <p align="center"> <img src="https://c.tenor.com/nGGespufhmMAAAAC/rikka-kawaii-af.gif" alt="tamnguyens" /> </p>
 <h1 align="center">Hello 👋 Hikki_nè</h1>
 <h3 align="center">Hello i'm Tam Nguyen from Viet Nam</h3>
