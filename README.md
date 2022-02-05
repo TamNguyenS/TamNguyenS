@@ -1,15 +1,15 @@
 <h1 align="center">(ง •_•)ง</h1>
 <p align="center"> <img src="https://i.pinimg.com/originals/80/42/69/804269956d180fd6d5d1a49417bf4043.gif" alt="tamnguyens" /> </p>
 <h1 align="center">Hello 👋 Hikki_nè</h1>
-/*<h3 align="center"> I'm Tam Nguyen from Viet Nam</h3>*/
+
 <img align="right" alt="Hikki" width="400" src="https://i.pinimg.com/originals/3c/ba/24/3cba2490f731e80e4daedb3e1a95f297.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamnguyens&label=Profile%20views&color=0e75b6&style=flat" alt="tamnguyens" /> </p>
 
-- 🔭 I’m currently working on **.........**
+- 🔭 I’m currently working on **VKU**
 
-- 🌱 I’m currently learning   **.........**
-- 💬 Ask me about **.........**
-- 📫 How to reach me **.........**
+- 🌱 I’m currently learning   **JAVA**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
