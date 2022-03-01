@@ -11,7 +11,9 @@
 
 - 🎯 My goal is to become web developer full stack.
 
+- 🚀 Hope today will be better than tomorrow .
 
+<p align="center">  <br> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,9 +22,10 @@
 <a href="https://discord.gg/https://discord.gg/HKjZkkSU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HKjZkkSU" height="30" width="40" /></a>
 </p>
 
+<p align="center">  <br> </p>
+ 
+## 🎻 **I'm a music addict**
 
-- 🎻 **I'm a music addict**
-
-[![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
+[![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07) [![PPOP Music](https://img.shields.io/badge/Japan%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
 
 [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
