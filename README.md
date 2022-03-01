@@ -8,7 +8,8 @@
 - 🔭 I am a student at **VKU**
 
 - 🌱 I’m currently learning   **JAVA, HTML,CSS,JAVASCRIP**
-- 
+
+- 🎯 My goal is to become web developer full stack.
 
 
 
@@ -18,7 +19,9 @@
 <a href="https://fb.com/tamnc29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamnc29" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/HKjZkkSU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HKjZkkSU" height="30" width="40" /></a>
 </p>
-## :headphones: Spotify Playing
+
+
+- 🎻 **I'm a music addict**
 
 [![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
 
