@@ -28,4 +28,4 @@
 
 [![Programming Music](https://img.shields.io/badge/Loffi%20Chill-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5eHUErerg4SbhttZgtGvOT?si=744446ba11de46fc)  [![PPOP Music](https://img.shields.io/badge/Mikki%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07) [![PPOP Music](https://img.shields.io/badge/Japan%20Loffi-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/4SYNclFrwAf717XkW02KRT?si=0e87897bef064e07)
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2gp2l)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdjjjatuelp2chw7ur2gp2l)
