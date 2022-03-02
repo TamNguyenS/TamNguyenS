@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="Hikki" width="350" src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966">
+<img align="right" alt="Hikki" width="300" src="https://camo.githubusercontent.com/25f4341435db58189f8ec1d5933b531497ccbcbf4ba1ced12f677b308c7eea66/68747470733a2f2f632e74656e6f722e636f6d2f474e37334d4b4261775a5941414141692f627573792d637574652e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tamnguyens&label=Profile%20views&color=0e75b6&style=flat" alt="tamnguyens" /> </p>
 
 
