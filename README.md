@@ -11,7 +11,7 @@
 
 - 🔭 I am a student at **VKU**
 
-- 🌱 I’m currently learning   **JAVA, HTML,CSS,JAVASCRIP**
+- 🌱 I’m currently learning   **JAVA, HTML,CSS,JAVASCRIPT**
 
 - 🎯 My goal is to become web developer full stack.
 
