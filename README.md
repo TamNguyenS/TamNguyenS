@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning   **JAVA, HTML,CSS,JAVASCRIPT**
 
-- 🎯 My goal is to become web developer full stack.
+- 🎯 My goal is to become Backend Developer .
 
 - 🚀 Hope today will be better than tomorrow .
 
