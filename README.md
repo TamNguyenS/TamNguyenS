@@ -25,10 +25,9 @@
  
 <p align="left">
 <a href="https://twitter.com/tamnguy28327146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tamnguy28327146" height="30" width="40" /></a>
-<a href="https://fb.com/tamnc29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tamnc29" height="30" width="40" /></a>
+<a href="https://fb.com/tamnc29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Hikkywannafly" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/HKjZkkSU" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/HKjZkkSU" height="30" width="40" /></a>
 </p>
- 
  <br>
  
 ## 🔮 **My skills**
