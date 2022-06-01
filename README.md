@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="tamnguyens" /> </p>
 
-## <h1 align="center"> <img src="https://64.media.tumblr.com/433e8d5da16bac374f2474cdfaf38464/tumblr_mtyjh4J78X1rbm1fao1_500.gif" width="32px"> &nbsp;***Hikky wanna fly***
+## <h1 align="center"> <img src="https://64.media.tumblr.com/433e8d5da16bac374f2474cdfaf38464/tumblr_mtyjh4J78X1rbm1fao1_500.gif" width="40px"> &nbsp;***Hikky wanna fly***
 
 
 
