@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://github.com/TamNguyenS/TamNguyenS/blob/output/github-contribution-grid-snake.svg" alt="tamnguyens" /> </p>
 
-## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" width="40px"> &nbsp;***Hikkywannafly***
+## <h1 align="center"> <img src="https://thumbs.gfycat.com/AlienatedPrestigiousKoi-size_restricted.gif" height="30" width="40"> &nbsp;***Hikkywannafly***
 
 
 
